@@ -1,3 +1,6 @@
+@import "@fontsource/fredoka-one";
+@import "@fontsource/nunito-sans";
+
 @tailwind base;
 @tailwind components;
 @tailwind utilities;
